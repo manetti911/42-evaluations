@@ -1,5 +1,6 @@
 # 42_corrections
 Ce repo rassemble tous les sujets de correction de 42. PR pour ajouter un sujet manquant.
+Les sujets sont en .html, téléchargez les pour les ouvrir. Si j'ai pas la flemme je ferai peut etre des versions en .txt.
 
 ## Projets disponibles
 
@@ -16,11 +17,11 @@ Meh
 ## So_long
 ❌
 ## Push_swap
-❌
+✅
 ## Exam Rank 02
 ❌
 ## Philosophers
-❌
+✅
 ## Minishell
 ✅
 ## Exam Rank 03
@@ -47,6 +48,6 @@ Meh
 * ### CPP07
 ❌
 * ### CPP08
-❌
+✅
 * ### CPP09
 ✅
