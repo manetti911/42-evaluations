@@ -1,5 +1,5 @@
 # 42_corrections
-Ce repo rassemble tous les sujets de correction de 42. DM pour en ajouter un manquant ou pour une update.
+Ce repo rassemble tous les sujets de correction de 42. PR pour ajouter un sujet manquant.
 
 ## Projets disponibles
 
