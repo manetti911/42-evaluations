@@ -10,7 +10,7 @@ Ce repo rassemble tous les sujets de correction de 42. DM pour en ajouter un man
 ## Get_next_line
 ❌
 ## Born2beroot
-👋
+Meh
 ## Minitalk
 ❌
 ## So_long
@@ -22,7 +22,7 @@ Ce repo rassemble tous les sujets de correction de 42. DM pour en ajouter un man
 ## Philosophers
 ❌
 ## Minishell
-👋
+✅
 ## Exam Rank 03
 ❌
 ## NetPractice
