@@ -15,17 +15,13 @@ Meh
 ## Minitalk
 ❌
 ## So_long
-❌
+✅
 ## Push_swap
 ✅
-## Exam Rank 02
-❌
 ## Philosophers
 ✅
 ## Minishell
 ✅
-## Exam Rank 03
-❌
 ## NetPractice
 ❌
 ## Cub3D
@@ -42,7 +38,7 @@ Meh
 * ### CPP04
 ✅
 * ### CPP05
-❌
+✅
 * ### CPP06
 ❌
 * ### CPP07
@@ -51,3 +47,11 @@ Meh
 ✅
 * ### CPP09
 ✅
+## Inception
+✅
+## Webserv
+❌
+## Ft_irc
+❌
+## Ft_transcendence
+❌
